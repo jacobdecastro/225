@@ -1,3 +1,7 @@
+h1,h2,h3,h4,h5,h6,p,li,html {
+	font-family: 'BentonSans'
+}
+
 .top {
   padding-top: 5%;
   padding-bottom: 5%;
@@ -5,4 +9,31 @@
 
 .header {
     background-image: url('img/top.jpg');
+}
+
+.section {
+	padding-top: 3%;
+}
+
+.footer {
+	padding-top: 5%;
+	padding-bottom: 3%;
+}
+
+.footer-text {
+	text-align: center;
+	color: #444;
+}
+
+a.sidebar-list {
+	color: black;
+}
+
+.video {
+	padding-bottom: 1%;
+	padding-top: 5%;
+}
+
+.padtop {
+	padding-top: 3%;
 }
